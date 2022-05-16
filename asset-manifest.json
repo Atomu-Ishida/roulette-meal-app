@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/roulette-meal-app/static/css/main.073c9b0a.css",
+    "main.js": "/roulette-meal-app/static/js/main.32d4d56e.js",
+    "static/js/787.e857925c.chunk.js": "/roulette-meal-app/static/js/787.e857925c.chunk.js",
+    "service-worker.js": "/roulette-meal-app/service-worker.js",
+    "static/media/logo.svg": "/roulette-meal-app/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/roulette-meal-app/index.html",
+    "main.073c9b0a.css.map": "/roulette-meal-app/static/css/main.073c9b0a.css.map",
+    "main.32d4d56e.js.map": "/roulette-meal-app/static/js/main.32d4d56e.js.map",
+    "787.e857925c.chunk.js.map": "/roulette-meal-app/static/js/787.e857925c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.32d4d56e.js"
+  ]
+}
